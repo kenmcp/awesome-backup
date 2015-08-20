@@ -7,11 +7,13 @@ Criteria: Low cost, encrypted
 
 - [Code42 CrashPlan](https://www.code42.com/store/)
 - [Backblaze](https://secure.backblaze.com/buy.htm)
+- [Carbonite]9http://www.carbonite.com/backup/pricing-plans/personal-plans)
 
 
 ## Company
 
 - [Backblaze](https://www.backblaze.com/business.html#business-contact)
+
 
 
 ### with compliance
