@@ -5,21 +5,21 @@ Criteria: Low cost, encrypted
 
 ## Personal
 
-- [Code42 CrashPlan](https://www.code42.com/store/)
-  - $5.99/computer/mth
-  - unlimited storage
 - [Backblaze](https://secure.backblaze.com/buy.htm)
-  - $5/computer/mth
+  - $6/computer/mth
   - unlimited storage
 - [Carbonite](http://www.carbonite.com/backup/pricing-plans/personal-plans)
-  - $59.99/computer/year
+  - $71.99/computer/year
+  - unlimited storage
+- [Code42 CrashPlan](https://www.code42.com/store/)
+  - $9.99/computer/mth
   - unlimited storage
 
 
 ## Company
 
-- [Backblaze](https://www.backblaze.com/business.html#business-contact)
-  - $50/computer/year
+- [Backblaze](https://www.backblaze.com/business-pricing.html)
+  - $60/computer/year
   - unlimited storage
 
 
